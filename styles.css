@@ -1,0 +1,88 @@
+body{
+    background-color:rgba(0, 255, 0, 0.384);
+
+    color: #0f140f;
+    font-size: 16px;
+    font-weight: normal;
+    font-family:Arial, Helvetica, sans-serif
+}
+h1{
+    font-size: 50px;
+    color: rgba(5, 3, 75, 0.685);
+}
+
+a{
+    color: blueviolet;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+a:active{
+    color: crimson;
+}
+/*a:visited{
+
+}*/
+ .avatar{
+width:200px;
+border-radius: 48px;
+box-shadow: 4px 4px 14px rgba(0, 0, 0, 25);
+ }
+ .deret{
+     border-radius: 10px;
+ }
+ .br-pink{
+     background: #e0cce2;
+     border-radius: 12px;
+ }
+
+ .info p{
+     color: #151516;
+     margin: auto;
+     font-style: italic;
+     text-decoration:none ;
+
+     /*text-transform: uppercase;*/
+     /*letter-spacing: 3px;*/
+     /*word-spacing: 12px;*/
+
+ }
+  
+/*box Model*/
+.container{
+    max-width: 600px;
+margin:left;
+
+}
+.card-t{
+    margin-bottom: 18px;
+
+}
+.table1{
+    color: #669;
+    margin-bottom: 100%;
+  
+}
+/* .social{
+background:darkgray; 
+padding: 2px 2px 2px 3px;
+border: 5px solid red;
+border-bottom-style: dotted;
+border-top-style: dotted;
+border-left-style: double;
+border-right-style: double;
+margin: 12px ;  
+
+ }*/
+ /*.box-model >div{
+margin-top: 2px;
+float: left;
+background: black;
+height: 200px;
+width: 25%;
+border: 4px solid red;
+box-sizing: border-box;
+ }*/
